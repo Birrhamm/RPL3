@@ -92,3 +92,77 @@
 </html>
 ```
 ![Screenshot (224)](https://github.com/Birrhamm/RPL3/assets/115520530/31023419-7cbb-4801-ab7e-0c5fe900ccd2)
+
+# MENU UTAMA
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Menu Pembayaran SPP</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 15px;
+    }
+
+    nav {
+      background-color: #0b7502;
+      padding: 10px;
+    }
+
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      padding: 10px;
+      margin: 0 10px;
+      font-weight: bold;
+    }
+
+    nav a:hover {
+      background-color: #777777;
+    }
+
+    section {
+      padding: 20px;
+    }
+
+    h2 {
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Pembayaran SPP</h1>
+</header>
+
+<nav>
+  <a href="#">Beranda</a>
+  <a href="#">Pembayaran</a>
+  <a href="#">Cetak Kwitansi</a>
+  <a href="#">Laporan</a>
+  <a href="#">Hubungi Kami</a>
+  <a href="#">Logout</a>
+</nav>
+
+<section>
+  <h2>Selamat datang di Sistem Pembayaran SPP</h2>
+  <p>Di sini Anda dapat melakukan pembayaran SPP dengan mudah dan cepat. Pilih menu yang diinginkan dari navigasi di atas.</p>
+</section>
+
+</body>
+</html>
+```
+![Screenshot (225)](https://github.com/Birrhamm/RPL_PembayaranSPP/assets/115520530/a4cc36be-8111-4cd3-8e94-144112bc0d1d)
